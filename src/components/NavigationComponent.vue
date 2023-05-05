@@ -20,6 +20,7 @@
           <button>Привет</button>
             <button>Привет от Никиты</button>
           <button>Привет от Руслана</button>
+            <button>Привет от Артёма</button>
         </div>
     </div>
 </template>
