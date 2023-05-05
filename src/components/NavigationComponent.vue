@@ -19,6 +19,7 @@
             <button>Русик ахуел</button>
           <button>Привет</button>
             <button>Привет от Никиты</button>
+          <button>Привет от Руслана</button>
         </div>
     </div>
 </template>
