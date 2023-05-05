@@ -13,6 +13,7 @@
       </nav>
 
       <button class="navigation--startBtn">Записаться на урок</button>
+      <button>Привет</button>
 
     </div>
   </div>
