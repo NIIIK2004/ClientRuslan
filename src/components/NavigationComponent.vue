@@ -13,13 +13,6 @@
             </nav>
 
             <button class="navigation--startBtn">Записаться на урок</button>
-            <button>Привет</button>
-            <button>КУ</button>
-            <button>Артем красавчик)</button>
-            <button>Русик ахуел</button>
-          <button>Привет</button>
-            <button>Привет от Никиты</button>
-          <button>Ку</button>
         </div>
     </div>
 </template>
