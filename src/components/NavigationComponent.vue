@@ -16,7 +16,7 @@
             <button>Привет</button>
             <button>КУ</button>
             <button>Артем красавчик)</button>
-            <button>Русик</button>
+            <button>Русик ахуел</button>
 
         </div>
     </div>
