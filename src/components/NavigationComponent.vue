@@ -14,6 +14,7 @@
 
       <button class="navigation--startBtn">Записаться на урок</button>
       <button>Привет</button>
+      <button>КУ</button>
 
     </div>
   </div>
